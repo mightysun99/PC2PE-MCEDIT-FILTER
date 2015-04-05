@@ -1,6 +1,7 @@
 displayName = "PC -> PE"
 
 replaceBlocks = {
+    23: 0,
     28: 0,
     29: 0,
     33: 0,
